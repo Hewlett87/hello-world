@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans
+
+Ben here, I like Github and Jquery
+I also like curry
